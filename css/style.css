@@ -32,7 +32,7 @@ body {
 
 /* Header */
 body>header {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.781), rgba(0, 0, 0, 0.158)), linear-gradient(to top, rgba(3, 3, 3, 0.432), rgba(10, 9, 9, 0.007)), url(../img/backgroud.jpg);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.781), rgba(0, 0, 0, 0.158)), linear-gradient(to top, rgba(3, 3, 3, 0.432), rgba(10, 9, 9, 0.007)), url(../img/backgroud-body.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
